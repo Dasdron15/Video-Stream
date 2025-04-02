@@ -1,16 +1,7 @@
-# How To Use
+# Overview
 
-## Step 1
-cd into repo folder.
+Video stream is a simple tool that lets you stream video from one device to another!
 
-## Step 2
-Then type this command into your terminal `pip install -r requirements. txt`
+# How to use
 
-## Step 3
-Launch server.py and copy Server Ip address: 'There should be server Ip address'
-
-## Step 4
-Replace 'SERVER IP ADDRESS' placeholder text in client.py file with the given Ip address.
-
-## Step 5
-Launch client.py on other device and Enjoy!
+First lauch `server.py` file and copy ip address from the output
