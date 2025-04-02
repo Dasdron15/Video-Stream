@@ -9,7 +9,7 @@ Video stream is a simple tool that lets you stream video from one device to anot
    `cd path/to/project`
 3. Install dependecies:
 
-   `pip install -r requirements.txt`
+    `pip install -r requirements.txt`
 
 # How to Use
 
@@ -17,22 +17,22 @@ Video stream is a simple tool that lets you stream video from one device to anot
    
    For Windows:
    
-     `python server.py`
+        python server.py
    
    For Linux/MacOS:
    
-     `python3 server.py`
+        python3 server.py
 2. Copy the IP address displayed in the console.
 3. Open `client.py` and replace `SERVER IP ADDRESS` with the copied IP.
 4. Run the client on another device:
 
    For Windows:
    
-     `python client.py`
+        python client.py
    
    For Linux/MacOS:
    
-     `python3 client.py`
+        python3 client.py
 5. Done! You can now stream video from your webcam.
 
 # Notes
